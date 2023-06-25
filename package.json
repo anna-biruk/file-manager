@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-file-manager",
+    "version": "1.0.0",
+    "description": "Repository for File Manager task in NodeJS course 2023 Q2 at Rolling Scope School.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js -- --username=Anna"
+    },
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anna-biruk/file-manager"
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://github.com/anna-biruk/file-manager"
+}
