@@ -35,6 +35,7 @@ const cd = async (directory, newPath, check) => {
             console.log(new Error("Operation failed"));
             return null;
         }
+
     }
 
     if (path.isAbsolute(newPath)) {
